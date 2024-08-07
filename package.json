@@ -1,0 +1,27 @@
+{
+  "name": "mc-terminal",
+  "version": "1.0.0",
+  "description": "\"Play\" minecraft from the command terminal.",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "@Le0X8/mc-terminal"
+  },
+  "author": "Leonard Lesinski",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.1.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-airbnb-typescript": "^18.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-import-resolver-typescript": "^3.6.1",
+    "eslint-plugin-prettier": "^5.2.1",
+    "ts-node": "^10.9.2",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.0.1"
+  }
+}
